@@ -1,6 +1,6 @@
 
 
-md id="premium-swetha-readme"//
+
 <h1 align="center">Hi 👋, I'm Swetha R</h1>
 
 <h3 align="center">
