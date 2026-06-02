@@ -4,7 +4,7 @@ md id="premium-swetha-readme"
 <h1 align="center">Hi 👋, I'm Swetha R</h1>
 
 <h3 align="center">
-Java Full Stack Developer • AI Enthusiast • Blockchain Student
+Java Full Stack Developer • Web Developer • Blockchain Student
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swetha%20R&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Scalable%20Web%20Applications%20%7C%20AI%20Solutions%20%7C%20Continuous%20Learner&descAlignY=58&descSize=18"/>
@@ -19,7 +19,7 @@ Java Full Stack Developer • AI Enthusiast • Blockchain Student
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
+java
 class Developer {
 
     String name = "Swetha R";
@@ -55,7 +55,6 @@ class Developer {
         return "Code. Learn. Improve. Repeat.";
     }
 }
-````
 
 ---
 
