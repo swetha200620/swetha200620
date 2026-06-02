@@ -19,43 +19,14 @@ Java Full Stack Developer • Web Developer • Blockchain Student
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-class Developer {
+| 👤 Name     | Swetha R                        |
+| ----------- | ------------------------------- |
+| 💼 Role     | Java Full Stack Developer       |
+| 📍 Location | Chennai, India                  |
+| 🎓 Degree   | BCA Blockchain Technology       |
+| 🌱 Learning | Spring Boot, REST APIs, Cloud   |
+| 🎯 Motto    | Code • Learn • Improve • Repeat |
 
-    String name = "Swetha R";
-    String role = "Java Full Stack Developer";
-    String location = "Chennai, India";
-
-    String education =
-        "BCA Blockchain Technology";
-
-    String[] skills = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "React.js",
-        "MySQL",
-        "HTML",
-        "CSS",
-        "Bootstrap"
-    };
-
-    String[] interests = {
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Cloud Computing",
-        "Blockchain"
-    };
-
-    String currentlyLearning =
-        "Spring Boot + REST APIs + Cloud";
-
-    String motto() {
-        return "Code. Learn. Improve. Repeat.";
-    }
-}
-```
 ---
 
 ## 🌐 Portfolio & Contact
