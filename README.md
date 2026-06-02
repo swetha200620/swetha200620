@@ -124,83 +124,65 @@ Java Full Stack Developer • Web Developer • Blockchain Student
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🚀 Featured Projects
 
-### 🤖 AI Image Classification
+### 🛒 NexMart — Full Stack E-Commerce Platform
 
-* Python
-* YOLOv8
-* OpenCV
-* Computer Vision
+<p align="center">
+  <img src="images/projects/nexmart-home.png" width="900"/>
+</p>
 
-✔ Real-time image classification
+**Tech Stack:** React.js • Node.js • Express.js • MySQL • JWT Authentication
 
-✔ Image preprocessing pipeline
+✨ Features
 
-✔ Scalable deployment architecture
+* Secure JWT Authentication
+* Product Catalog & Categories
+* Shopping Cart & Wishlist
+* Order Tracking
+* Admin Dashboard
+* Inventory Management
+* Responsive Mobile-First Design
 
-</td>
+🔗 Live Demo: https://swetha200620.github.io/e-commerce/
 
-<td width="50%">
+---
 
-### 🎯 Object Detection Platform
+### 🤖 Multi-Class Object Detection & Counting Platform
 
-* Python
-* YOLOv8
-* OpenCV
+<p align="center">
+  <img src="images/projects/object-result.png" width="900"/>
+</p>
 
-✔ Multi-object detection
+**Tech Stack:** Python • YOLOv8 • OpenCV • HTML • CSS • JavaScript
 
-✔ Automated counting
+✨ Features
 
-✔ Real-time visualization
+* Real-Time Object Detection
+* Multi-Class Classification
+* Automated Object Counting
+* Detection Visualization
+* Scalable Computer Vision Pipeline
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 NexMart
-
-* React.js
-* Node.js
-* Express.js
-* MySQL
-
-✔ JWT Authentication
-
-✔ Admin Dashboard
-
-✔ Product Management
-
-✔ Order Tracking
-
-</td>
-
-<td width="50%">
+---
 
 ### 📋 Smart Productivity Dashboard
 
-* React.js
-* JavaScript
-* Local Storage
+<p align="center">
+  <img src="images/projects/todo-dashboard.png" width="900"/>
+</p>
 
-✔ Task Tracking
+**Tech Stack:** React.js • JavaScript • HTML • CSS • Local Storage
 
-✔ Dark Mode
+✨ Features
 
-✔ Search & Filter
+* Task Management
+* Priority Tracking
+* Search & Filtering
+* Progress Monitoring
+* Dark / Light Mode
+* Responsive UI
 
-✔ Responsive UI
-
-</td>
-</tr>
-</table>
-
----
 
 ## 💼 Experience Timeline
 
