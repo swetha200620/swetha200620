@@ -124,7 +124,6 @@ Java Full Stack Developer • Web Developer • Blockchain Student
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
 
 ### 🛒 NexMart — Full Stack E-Commerce Platform
 
