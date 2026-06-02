@@ -10,7 +10,7 @@ Java Full Stack Developer • Web Developer • Blockchain Student
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Swetha%20R&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Scalable%20Web%20Applications%20%7C%20AI%20Solutions%20%7C%20Continuous%20Learner&descAlignY=58&descSize=18"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;React.js+Frontend+Developer;Computer+Vision+%26+AI+Explorer;Blockchain+Technology+Student;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;React.js+Frontend+Developer;Blockchain+Technology+Student;Always+Learning+Something+New"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@ Java Full Stack Developer • Web Developer • Blockchain Student
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-java
+```java
 class Developer {
 
     String name = "Swetha R";
@@ -55,7 +55,7 @@ class Developer {
         return "Code. Learn. Improve. Repeat.";
     }
 }
-
+```
 ---
 
 ## 🌐 Portfolio & Contact
